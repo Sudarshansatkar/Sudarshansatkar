@@ -6,10 +6,10 @@
 <p align="justify"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sudarshansatkar&theme=onedark" alt="Sudarshan Satkar" /></a> </p>
 
 <div> <a href="https://www.linkedin.com/in/sudarshan-satkar-9121a71b3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/Pratik Chavhan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/Sudarshan Chavhan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="justify">
-<a href="https://linkedin.com/in/pratikchavhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="pratikchavhan" height="30" width="40" /></a><a href="https://www.hackerrank.com/pratik_chavhan_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="pratik_chavhan_1" height="30" width="40" /></a><a href="https://www.leetcode.com/user5631Pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="user5631Pk" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/user/pratikchavhan77" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg" alt="user/pratikchavhan77" height="30" width="40" /></a></p>
+<a href="https://linkedin.com/in/Sudarshanchavhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Sudarshanchavhan" height="30" width="40" /></a><a href="https://www.hackerrank.com/Sudarshan_chavhan_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="Sudarshan_chavhan_1" height="30" width="40" /></a><a href="https://www.leetcode.com/user5631Pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="user5631Pk" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/user/Sudarshanchavhan77" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg" alt="user/Sudarshanchavhan77" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -45,9 +45,9 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=PratikChavhan&show_icons=true&locale=en&theme=synthwave" alt="Pratik Chavhan" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Sudarshansatkar&show_icons=true&locale=en&theme=synthwave" alt="Sudarshan Satkar" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PratikChavhan&theme=synthwave" alt="Pratik Chavhan" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudarshansatkar&theme=synthwave" alt="Sudarshan Satkar" /></p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
